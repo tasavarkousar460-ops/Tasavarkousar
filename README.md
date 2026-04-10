@@ -1,8 +1,7 @@
 <!-- 🌈 GRADIENT BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tasavarkousar/tasavarkousar/main/Tkousar.png" />
+  <img src="Tkousar.png" width="100%" />
 </p>
-
 ---
 
 <!-- 👋 INTRO -->
