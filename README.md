@@ -1,6 +1,6 @@
 <!-- 🌈 GRADIENT BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/tasavarkousar/tasavarkousar/main/Tkousar.png" />
 </p>
 
 ---
