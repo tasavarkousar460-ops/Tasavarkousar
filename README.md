@@ -5,7 +5,6 @@
 ---
 
 <!-- 👋 INTRO -->
-<h1 align="center" style="color:#6A5ACD;">Hi 👋, I'm Tasavar Kousar</h1>
 
 <h3 align="center" style="color:#FF69B4;">
 💻 Aspiring Developer | 🚀 Tech Learner | 🌱 Continuous Learner
